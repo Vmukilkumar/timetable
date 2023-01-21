@@ -105,3 +105,5 @@ Execute the program
 ```
 # OUPUT
 ![output](./output.png)
+# Result
+thus the timetable is displayed in the webpage
